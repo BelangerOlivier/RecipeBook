@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RecipeBook.Api/RecipeBook.Api.csproj" />
+    <Project Path="src/RecipeBook.Domain/RecipeBook.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RecipeBook.Api.Tests/RecipeBook.Api.Tests.csproj" />
+    <Project Path="tests/RecipeBook.Domain.Tests/RecipeBook.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
